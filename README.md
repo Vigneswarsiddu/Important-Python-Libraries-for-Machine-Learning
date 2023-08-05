@@ -1,2 +1,9 @@
 # Important-Python-Libraries-for-Machine-Learning
-Complete Libraries on Numpy, Pandas, Matplotlib, Seaborn in Python || Machine Learning || Author: K. VIGNESWAR SIDDU
+This Repository Covers the following Topics:
+1. Complete Numpy Tutorial for Machine Learning
+2. Complete Pandas Tutorial for Machine Learning
+3. Complete Matplotlib & Seaborn Tutorial for Machine Learning
+4. Complete Sklearn Tutorial for Machine Learning
+
+For Any Queries you can Contact Email Id: vigneswarsiddu07@gmail.com
+
